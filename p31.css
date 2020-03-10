@@ -1,3 +1,16 @@
+p.one{
+border-style:solid;
+border-color:red;
+}
+p.two{
+border-style:solid;
+border-color:blue;
+}
+p.three{
+border-style:solid;
+border-color:red green blue yellow;
+}
+
 p.margin{
 border-style:solid;
 border-color:green;
